@@ -1,2 +1,1 @@
 A first try to use vscode to edit the git repo, make a txt file.
-Creating a new branch is quick and Simple.
